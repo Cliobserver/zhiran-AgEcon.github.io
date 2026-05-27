@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Policy-induced expansion of organic farmland: implications for food prices and welfare"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-10-01-organic-farmland
+excerpt: 'With Pierre Mérel and Richard J. Sexton. This paper examines how policy-driven expansion of organic farmland affects food prices and consumer welfare.'
+date: 2023-10-01
+venue: 'European Review of Agricultural Economics'
+paperurl: 'https://academic.oup.com/erae/article-abstract/50/4/1583/7235643'
+citation: 'Mérel, Pierre, Zhiran Qin, and Richard J. Sexton. (2023). &quot;Policy-induced expansion of organic farmland: implications for food prices and welfare.&quot; <i>European Review of Agricultural Economics</i>. 50(4), 1583.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+With Pierre Mérel, Zhiran Qin, and Richard J. Sexton. This paper examines how policy-driven expansion of organic farmland affects food prices and consumer welfare. Using a structural approach, it quantifies the trade-offs between environmental goals of organic farming policies and their implications for food affordability and distributional welfare effects.
