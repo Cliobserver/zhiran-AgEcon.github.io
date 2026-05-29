@@ -1,7 +1,7 @@
 ---
 title: "Nutrition Transition and Population Growth: Implications for Land Use and Food Prices"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-07-01-nutrition-transition
 excerpt: 'This paper develops a partial equilibrium model to study the implications of nutrition transition driven by income growth in developing countries, yielding country-specific projections of food prices and land use changes to 2050.'
 date: 2025-07-01
