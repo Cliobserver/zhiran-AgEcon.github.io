@@ -15,4 +15,4 @@ My published work examines how policy-driven organic expansion in high-income co
 
 Before coming to Davis, I completed my undergraduate studies in Agricultural Economics at Renmin University of China.
 
-Feel free to reach out at [zhrqin@ucdavis.edu].
+Feel free to reach out at [zhrqin@ucdavis.edu](mailto:zhrqin@ucdavis.edu).
