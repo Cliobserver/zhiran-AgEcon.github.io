@@ -7,7 +7,7 @@ excerpt: 'With Pierre Mérel and Richard J. Sexton. This paper examines how poli
 date: 2023-10-01
 venue: 'European Review of Agricultural Economics'
 paperurl: 'https://academic.oup.com/erae/article-abstract/50/4/1583/7235643'
-citation: 'Mérel, Pierre, Zhiran Qin, and Richard J. Sexton. (2023). &quot;Policy-induced expansion of organic farmland: implications for food prices and welfare.&quot; <i>European Review of Agricultural Economics</i>. 50(4), 1583.'
+citation: 'Mérel, Pierre, Zhiran Qin, and Richard J. Sexton. (2023). &quot;Policy-induced expansion of organic farmland: implications for food prices and welfare.&quot; <i>European Review of Agricultural Economics</i>. 50(4), 1583–1631.'
 ---
 
 With Pierre Mérel, Zhiran Qin, and Richard J. Sexton. This paper examines how policy-driven expansion of organic farmland affects food prices and consumer welfare. Using a structural approach, it quantifies the trade-offs between environmental goals of organic farming policies and their implications for food affordability and distributional welfare effects.
