@@ -1,12 +1,12 @@
 ---
-title: "Nutrition Transition and Population Growth: Implications for Land Use and Food Prices"
+title: "Nutrition transition and population growth: Implications for land use and food prices"
 collection: publications
-category: conferences
+category: workingpapers
 permalink: /publication/2025-07-01-nutrition-transition
-excerpt: 'This paper develops a partial equilibrium model to study the implications of nutrition transition driven by income growth in developing countries, yielding country-specific projections of food prices and land use changes to 2050.'
+excerpt: '<b>Job Market Paper.</b> This paper develops a partial equilibrium model of global crop and food markets to study the implications of the nutrition transition and population growth in developing countries, yielding country-specific projections of food prices, crop prices, and land use to 2050.'
 date: 2025-07-01
-venue: '2025 AAEA & WAEA Joint Annual Meeting'
+venue: 'Job Market Paper — presented at the 2025 AAEA &amp; WAEA Joint Annual Meeting'
 paperurl: 'https://ageconsearch.umn.edu/record/361009'
-citation: 'Qin, Zhiran. (2025). &quot;Nutrition Transition and Population Growth: Implications for Land Use and Food Prices.&quot; <i>2025 AAEA & WAEA Joint Annual Meeting</i>, Denver, Colorado.'
+citation: 'Qin, Zhiran. &quot;Nutrition transition and population growth: Implications for land use and food prices.&quot; Job Market Paper. Presented at the <i>2025 AAEA &amp; WAEA Joint Annual Meeting</i>, Denver, CO.'
 ---
-This paper examines the implications of the nutrition transition driven by income growth in developing countries. As countries become wealthier, dietary patterns shift from starch staples toward vegetables, fruits, and animal protein, placing pressure on global agricultural production. Drawing on modeling approaches from Costinot, Donaldson, and Smith (2016), the paper develops a partial equilibrium model to analyze isolated and combined effects of nutrition transition and population growth under various counterfactual scenarios, generating country-specific equilibrium projections of food prices and land use changes to 2050.
+**Job Market Paper.** As developing countries become richer, diets shift from starchy staples toward vegetables, fruits, and animal protein, placing pressure on world agricultural production. Building on Costinot, Donaldson, and Smith (2016), I develop a transparent partial equilibrium model of global crop and food markets and project country-specific food prices, crop prices, and land use to 2050 under alternative nutrition-transition and population-growth scenarios, informing policy responses to future food demand.

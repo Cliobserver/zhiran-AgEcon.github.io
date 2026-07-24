@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD candidate in the [Department of Agricultural and Resource Economics](https://are.ucdavis.edu/) at UC Davis. My research lies at the intersection of agricultural economics and international trade, with a focus on how policy and other structural changes reshape global food systems.
+I am a PhD candidate in the [Department of Agricultural and Resource Economics](https://are.ucdavis.edu/) at UC Davis, co-advised by Profs. Pierre Mérel and Richard J. Sexton. I expect to complete my PhD in June 2027. My research lies at the intersection of agricultural economics and international trade, with a secondary field in industrial organization.
 
+My job market paper studies how the nutrition transition — the dietary shift from starchy staples toward vegetables, fruits, and animal protein as developing countries grow richer — combines with population growth to reshape global land use and food prices through 2050. My published work examines how policy-driven organic farmland expansion in high-income countries shapes global food prices and welfare. In ongoing projects, I quantify the global market effects of China's commercialization of genetically modified corn and soybeans (with Zhiyao Ma and Pierre Mérel), and study how buyers' capacity constraints attenuate competition and depress contract prices in agricultural procurement markets (with Richard J. Sexton).
 
-My published work examines how policy-driven organic expansion in high-income countries shapes global food prices and welfare. My ongoing projects study how the nutrition transition in developing countries affects international crop and food markets, and what removing non-GMO policies in China would mean for agricultural trade and production. I also have a research footprint in agricultural industrial organization, with a particular interest in buyer market power in upstream agricultural supply chains.
-
-
-Before coming to Davis, I completed my undergraduate studies in Agricultural Economics at Renmin University of China.
+Before coming to Davis, I completed my undergraduate studies in Agricultural Economy and Management at Renmin University of China.
 
 Feel free to reach out at [zhrqin@ucdavis.edu](mailto:zhrqin@ucdavis.edu).
