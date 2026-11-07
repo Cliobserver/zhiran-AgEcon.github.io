@@ -1,5 +1,5 @@
 ---
-title: "Nutrition transition and population growth: Implications for land use and food prices"
+title: "Malthus Redux? Nutrition Transition, Population Growth, and World Food Markets in 2050"
 collection: publications
 category: jmp
 permalink: /publication/2025-07-01-nutrition-transition
@@ -7,7 +7,7 @@ excerpt: 'This paper builds a transparent general equilibrium model of 82 region
 date: 2025-07-01
 venue: 'Presented at the 2025 AAEA &amp; WAEA Joint Annual Meeting, Denver, CO'
 paperurl: 'https://cliobserver.github.io/zhiran-AgEcon.github.io/files/Zhiran_Qin_JMP.pdf'
-citation: 'Qin, Zhiran. &quot;Nutrition transition and population growth: Implications for land use and food prices.&quot; Job Market Paper. Presented at the <i>2025 AAEA &amp; WAEA Joint Annual Meeting</i>, Denver, CO.'
+citation: 'Qin, Zhiran. &quot;Malthus Redux? Nutrition Transition, Population Growth, and World Food Markets in 2050.&quot; Job Market Paper. Presented at the <i>2025 AAEA &amp; WAEA Joint Annual Meeting</i>, Denver, CO.'
 ---
 **[Download the latest version (PDF)](https://cliobserver.github.io/zhiran-AgEcon.github.io/files/Zhiran_Qin_JMP.pdf)**
 
