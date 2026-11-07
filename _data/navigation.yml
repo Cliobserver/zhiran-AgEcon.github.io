@@ -8,6 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Job Market Paper"
+    url: /publication/2025-07-01-nutrition-transition
+
   - title: "Publications"
     url: /publications/
 
