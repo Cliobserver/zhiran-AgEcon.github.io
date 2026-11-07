@@ -5,9 +5,8 @@ category: jmp
 permalink: /publication/2025-07-01-nutrition-transition
 excerpt: 'This paper builds a transparent general equilibrium model of 82 regions, 8 food categories, and 76 crops to study how the nutrition transition, together with population growth, affects world food markets by 2050.'
 date: 2025-07-01
-venue: 'Presented at the 2025 AAEA &amp; WAEA Joint Annual Meeting, Denver, CO'
 paperurl: 'https://cliobserver.github.io/zhiran-AgEcon.github.io/files/Zhiran_Qin_JMP.pdf'
-citation: 'Qin, Zhiran. &quot;Malthus Redux? Nutrition Transition, Population Growth, and World Food Markets in 2050.&quot; Job Market Paper. Presented at the <i>2025 AAEA &amp; WAEA Joint Annual Meeting</i>, Denver, CO.'
+citation: 'Qin, Zhiran. &quot;Malthus Redux? Nutrition Transition, Population Growth, and World Food Markets in 2050.&quot; Job Market Paper.'
 ---
 **[Download the latest version (PDF)](https://cliobserver.github.io/zhiran-AgEcon.github.io/files/Zhiran_Qin_JMP.pdf)**
 
