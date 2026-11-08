@@ -13,21 +13,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Agricultural and Resource Economics, UC Davis, June 2027 (anticipated)
+* Ph.D. in Agricultural and Resource Economics, UC Davis, May 2027 (anticipated)
+* M.S. in Agricultural and Resource Economics, UC Davis, June 2024
 * B.A. in Agricultural Economy and Management, Renmin University of China, June 2021
 
-Dissertation Committee
+Dissertation
 ======
-* Prof. Pierre Mérel (Co-chair), Department of Agricultural and Resource Economics, UC Davis — [prmerel@ucdavis.edu](mailto:prmerel@ucdavis.edu)
-* Distinguished Prof. Richard J. Sexton (Co-chair), Department of Agricultural and Resource Economics, UC Davis — [rjsexton@ucdavis.edu](mailto:rjsexton@ucdavis.edu)
-* Assistant Prof. James E. Sayre, Department of Agricultural and Resource Economics, UC Davis — [jsayre@ucdavis.edu](mailto:jsayre@ucdavis.edu)
+*From Farms to Dinner Plates: Buyer Power and Demand Growth in Agricultural Markets*
+
+**Committee**
+* Prof. Pierre Mérel (Co-chair), Dept. of Agricultural and Resource Economics, UC Davis — [prmerel@ucdavis.edu](mailto:prmerel@ucdavis.edu)
+* Distinguished Prof. Richard J. Sexton (Co-chair), Dept. of Agricultural and Resource Economics, UC Davis — [rjsexton@ucdavis.edu](mailto:rjsexton@ucdavis.edu)
+* Assistant Prof. James E. Sayre, Dept. of Agricultural and Resource Economics, UC Davis — [jsayre@ucdavis.edu](mailto:jsayre@ucdavis.edu)
 
 Research Fields
 ======
-* Primary: Agricultural and Trade Econometrics
-* Secondary: Industrial Organization
+Agricultural Economics, International Trade, Industrial Organization, Econometrics
 
-Employment
+Research Employment
 ======
 * Graduate Student Researcher (for Profs. Pierre Mérel and Richard J. Sexton, UC Davis), Fall 2024–Summer 2025, Summer 2022–Summer 2023
 
@@ -38,44 +41,45 @@ Academic Publications
 
 Research Papers
 ======
-* *Nutrition transition and population growth: Implications for land use and food prices* (**Job Market Paper**)
+* *Malthus Redux? Nutrition Transition, Population Growth, and World Food Markets in 2050* (**Job Market Paper**)
 
-  As developing countries become richer, diets shift from starchy staples toward vegetables, fruits, and animal protein, placing pressure on world agricultural production. Building on Costinot, Donaldson, and Smith (2016), I develop a transparent partial equilibrium model of global crop and food markets and project country-specific food prices, crop prices, and land use to 2050 under alternative nutrition-transition and population-growth scenarios, informing policy responses to future food demand.
+  As countries become wealthier, people adopt more diversified diets and shift from starchy staples to meat, dairy, and other food categories that require more farmland per calorie produced. We build a transparent general equilibrium model of 82 regions, 8 food categories, and 76 crops to study how this nutrition transition, together with population growth, affects world food markets by 2050 if crop yields stay at their 2010 level. With income from non-land inputs growing along the middle-of-the-road Shared Socioeconomic Pathway (SSP2) and land rents adjusting with food prices, the median food price across regions rises 2.0-fold for sweeteners and up to 3.9-fold for vegetal oils, and world meat consumption grows by 51 percent versus the 112 percent projected at fixed prices. Regions with 2010 incomes below 2,000 dollars still see their per capita meat and dairy consumption increase by more than 70 percent. Higher food and crop prices also benefit landowners worldwide. A uniform annual yield growth of 1.45 percent of the 2010 level, or 2.07 percent if it occurs only in regions with large yield gaps, would offset most of the cost of higher food prices. [[Download]]({{ base_path }}/files/Zhiran_Qin_JMP.pdf)
 
-* *From trials to commercialization: Global market effects of China's genetically modified soybean and corn policies* (Working Paper, with Zhiyao Ma and Pierre Mérel)
+* *Global Impacts of Genetically Modified Crop Expansion in China* (Working Paper, with Zhiyao Ma and Pierre Mérel)
 
-  China's move from pilot trials to nationwide commercialization of genetically modified corn and soybeans marks a potentially consequential shift in global crop supply. We develop and calibrate a partial equilibrium model of world crop supply, demand, and trade to quantify how this domestic rollout transmits to international markets. A 20% yield gain on China's soybean acreage raises domestic output substantially but transmits weakly to world prices; welfare gains concentrate in China, while Brazil and the United States bear the largest producer losses.
+  China began growing genetically modified (GM) soybeans and maize at scale in 2025 to reduce its dependence on imported crops, causing a productivity shock in a country that buys two thirds of the soybeans traded worldwide. We ask whether Chinese nationwide GM adoption can deliver the self-sufficiency it targets, and who would gain or lose from it globally. In a calibrated model of world crop supply, demand, and Armington trade, a 10% yield gain and the traits' cost savings raise China's soybean self-sufficiency by 1.2 percentage points. Imports supply more than four fifths of Chinese use, and under the Armington assumption, the domestic price, not the import bill, absorbs the shock. The value of the technology lies elsewhere. It raises world welfare by 10.5 billion US dollars a year, nearly all of it accruing to Chinese crop users. Chinese growers of rice and wheat lose, and US farm income falls by 1.0 billion. In contrast, China's 2025 retaliatory tariff on US soybeans, solved on the same baseline, raises self-sufficiency by 0.5 points at no net cost to China and costs US farmers 4.3 billion and the world 0.4 billion a year.
 
-* *Contract prices for agricultural products when buyers have heterogeneous valuations and binding capacity constraints* (Working Paper, with Richard J. Sexton)
+* *Heterogeneous Buyer Valuations and Binding Capacity Constraints Depress Contract Prices for Agricultural Products* (Working Paper, with Richard J. Sexton)
 
-  Using duopsony examples and a Hotelling framework, we show that binding capacity constraints severely attenuate competitive bidding in agricultural procurement markets, pushing contract prices toward sellers' outside options even when multiple non-collusive buyers are present. The analysis identifies capacity constraints as an underappreciated channel of buyer market power, with implications for farm prices, farmer welfare, and antitrust policy.
-
-Scholarships, Honors, and Awards
-======
-* Jastro-Shields Graduate Award, 2024, 2025, 2026
+  Contract procurement dominates today for most agricultural commodities in Western countries and is increasing in importance in the developing world. In the typical setting, a few processors bid for the output of many farmers whose products they value heterogeneously based on location, brand characteristics, and other factors. Modern processing/packing facilities are capital intensive with fixed capacities. Despite the predominance of this market environment, it has largely been ignored in studies of farm price determination. We address this substantial gap in the literature by modeling contract bidding in this market environment, drawing on the theory of two-sided matching. Using the Hotelling model, we show that the joint presence of heterogeneous buyer valuations and binding capacity constraints can largely attenuate the bargaining power of farms and cause farm prices to be reduced to sellers' reservation or outside-option price even under non-collusive bidding. Any reduction in processor capacity within a market area weakly lowers every seller's contract price, such that limiting processing capacity can be an important strategic tool for buyers to depress farm prices. [[Download]]({{ base_path }}/files/Zhiran_Qin_Contract_Prices.pdf)
 
 Teaching Fields
 ======
-Microeconomics, International Trade, Financial Economics, Econometrics
+Microeconomics, Agricultural Economics, International Trade, Financial Economics, Econometrics
 
-Teaching Experience
+Instructor Experience
 ======
-* **Instructor**, UC Davis
-  * Intermediate Microeconomics: Imperfect Competition, Markets & Welfare Economics (100B), Summer 2024
-* **Teaching Assistant**, UC Davis
-  * Microeconomic Analysis (204A/B, graduate), Fall 2023, Winter 2024
-  * Applied Econometrics (256B, graduate), Winter 2022
+* Intermediate Microeconomics: Imperfect Competition, Markets & Welfare Economics (100B), UC Davis, Summer 2024
+
+Teaching Assistantships
+======
+* **Graduate**, UC Davis
+  * Microeconomic Analysis I (204A), Fall 2023/2026
+  * Microeconomic Analysis II (204B), Winter 2024
+  * Applied Econometrics II (256B), Winter 2022
+* **Undergraduate**, UC Davis
   * Futures & Options Markets (139), Spring 2026
   * Operations Research & Management Science (155), Winter 2026
-  * Principles of Finance (171), Fall 2025, Spring 2024
+  * Principles of Finance (171), Fall 2025/Spring 2024
 
-Conference Presentations
+Professional Activities
 ======
-* "Policy-induced expansion of organic farmland: Implications for food prices and welfare," 2023 AAEA Annual Meeting, Washington, DC (presented by Pierre Mérel), 2023
-* "Nutrition transition and population growth: Implications for land use and food prices," 2025 AAEA Annual Meeting, Denver, CO, 2025
-* "From trials to commercialization: Global market effects of China's genetically modified soybean and corn policies," 2026 AAEA Annual Meeting, Kansas City, MO, 2026
-* "Contract prices for agricultural products when buyers have heterogeneous valuations and binding capacity constraints," 2026 AAEA Annual Meeting, Kansas City, MO, 2026
+**Conferences**
+* "Policy-induced Expansion of Organic Farmland: Implications for Food Prices and Welfare," 2023 AAEA, Washington, DC (presented by Pierre Mérel)
+* "Nutrition Transition and Population Growth: Implications for Land Use and Food Prices," 2025 AAEA, Denver, CO
+* "From Trials to Commercialization: Global Market Effects of China's Genetically Modified Soybean and Corn Policies," 2026 AAEA, Kansas City, MO
+* "Contract Prices for Agricultural Products When Buyers Have Heterogeneous Valuations and Binding Capacity Constraints," 2026 AAEA, Kansas City, MO
 
 Software
 ======
-R, Stata, MATLAB, Python, ArcGIS, LaTeX
+GAMS, R, Stata, MATLAB, Python, ArcGIS, LaTeX

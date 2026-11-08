@@ -7,6 +7,97 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<style>
+  .teaching-group + .teaching-group {
+    margin-top: 28px;
+  }
+  .teaching-group h2 {
+    font-size: 1.15em;
+    margin-bottom: 4px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .course-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 20px;
+    padding: 7px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 0.92em;
+    line-height: 1.45;
+  }
+  .course-row:last-child {
+    border-bottom: none;
+  }
+  .course-name {
+    flex: 1 1 auto;
+  }
+  .course-role {
+    font-style: italic;
+    color: #555;
+    flex-shrink: 0;
+  }
+  .course-terms {
+    font-style: italic;
+    color: #555;
+    white-space: nowrap;
+    flex-shrink: 0;
+    text-align: right;
+    min-width: 9.5em;
+  }
+  @media (max-width: 600px) {
+    .course-row {
+      flex-wrap: wrap;
+      gap: 2px 14px;
+    }
+    .course-terms {
+      min-width: 0;
+    }
+  }
+</style>
+
+<p style="font-size: 0.92em;">All courses at UC Davis.</p>
+
+<div class="teaching-group">
+  <h2>Graduate</h2>
+  <div class="course-row">
+    <span class="course-name">Microeconomic Analysis I (204A)</span>
+    <span class="course-role">Teaching Assistant</span>
+    <span class="course-terms">Fall 2023, 2026</span>
+  </div>
+  <div class="course-row">
+    <span class="course-name">Microeconomic Analysis II (204B)</span>
+    <span class="course-role">Teaching Assistant</span>
+    <span class="course-terms">Winter 2024</span>
+  </div>
+  <div class="course-row">
+    <span class="course-name">Applied Econometrics II (256B)</span>
+    <span class="course-role">Teaching Assistant</span>
+    <span class="course-terms">Winter 2022</span>
+  </div>
+</div>
+
+<div class="teaching-group">
+  <h2>Undergraduate</h2>
+  <div class="course-row">
+    <span class="course-name">Intermediate Microeconomics: Imperfect Competition, Markets &amp; Welfare Economics (100B)</span>
+    <span class="course-role">Instructor</span>
+    <span class="course-terms">Summer 2024</span>
+  </div>
+  <div class="course-row">
+    <span class="course-name">Futures &amp; Options Markets (139)</span>
+    <span class="course-role">Teaching Assistant</span>
+    <span class="course-terms">Spring 2026</span>
+  </div>
+  <div class="course-row">
+    <span class="course-name">Operations Research &amp; Management Science (155)</span>
+    <span class="course-role">Teaching Assistant</span>
+    <span class="course-terms">Winter 2026</span>
+  </div>
+  <div class="course-row">
+    <span class="course-name">Principles of Finance (171)</span>
+    <span class="course-role">Teaching Assistant</span>
+    <span class="course-terms">Fall 2025, Spring 2024</span>
+  </div>
+</div>
